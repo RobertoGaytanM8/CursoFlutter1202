@@ -1,2 +1,3 @@
 ## Ejemplo card 
-![ La tarjeta ](z_recursos/card.png)
+![ La tarjeta ](z_recursos/card.jpg
+)
